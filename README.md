@@ -17,6 +17,7 @@ py 파일명 runserver
 ex) py manage.py runserver
 ```
 을 이용해서 서버를 실행시켜 주면 된다
+
 ## Day01
   # 기본 프로젝트 생성 및 페이지 연결
 
